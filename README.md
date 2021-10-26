@@ -1,2 +1,2 @@
 # Machine-learning-classwork
-Home work for ML class
+Home work for machine learning class
